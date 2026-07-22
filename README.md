@@ -2,8 +2,9 @@
 
 # 🏅 Olympics DataHub 🏅
 
-</div>
 <p align="center">🔵 &nbsp; 🟡 &nbsp; ⚫ &nbsp; 🟢 &nbsp; 🔴</p>
+
+</div>
 
 A PostgreSQL-based relational database system designed to manage and analyze Olympic Games data, including athletes, events, countries, teams, sponsors, contracts, medical records, and doping tests. The project demonstrates database design, normalization, SQL querying, and analytical reporting using real-world Olympic-inspired data.
 
@@ -188,13 +189,13 @@ Olympics DataHub
 ├── schema.sql
 ├── data.sql
 ├── queries.sql
+├── er_diagram.dia
+├── relational_schema.dia
 ├── README.md
 ├── LICENSE
 │
 ├── diagrams
-    ├── er_diagram.dia
     ├── er_diagram.png
-    ├── relational_schema.dia
     └── relational_schema.png
 
 ```
